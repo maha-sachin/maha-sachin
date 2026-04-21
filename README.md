@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sachin 👋
 
-<!--
-**maha-sachin/maha-sachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile repository.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 I’m currently working on improving my development skills.
+- 🌱 I’m currently learning modern web and software development.
+- 👯 I’m open to collaborating on interesting open-source projects.
+- 💬 Ask me about coding, projects, and learning resources.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- GitHub: [@maha-sachin](https://github.com/maha-sachin)
+
+## ⚡ Fun Fact
+I enjoy building and sharing projects that solve real-world problems.
